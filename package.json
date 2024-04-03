@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "work1":"node ./workshop1.js",
-    "work2":"node ./workshop1.js",
-    "work3":"node ./workshop1.js"
+    "work2":"node ./workshop2.js",
+    "work3":"node ./workshop3.js"
 
   },
   "author": "",
