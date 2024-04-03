@@ -1,0 +1,15 @@
+{
+  "name": "basic-javascript",
+  "version": "1.0.0",
+  "description": "japackscript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "work1":"node ./workshop1.js",
+    "work2":"node ./workshop1.js",
+    "work3":"node ./workshop1.js"
+
+  },
+  "author": "",
+  "license": "ISC"
+}
